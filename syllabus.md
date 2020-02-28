@@ -2,8 +2,8 @@
 
 ## Readings 
 
-* italics *
-** bold ** 
+*italics*
+**bold** 
 
 - Reading 1
 - Reading 2 
